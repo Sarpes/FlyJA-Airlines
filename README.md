@@ -1,4 +1,4 @@
-# Airline Customer Satisfaction Analysis
+# FlyJA Airlines Customer Satisfaction Report
 
 ![Excel](https://img.shields.io/badge/Excel-Advanced-green?logo=microsoftexcel&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
